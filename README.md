@@ -1,7 +1,7 @@
 # 🌐 Personal Portfolio Website
 
 ## 🚀 Live Demo
-👉 https://portfolio-two-omega-tawgl0mx0e.vercel.app/#About_section
+👉 https://portfolio-two-omega-tawgl0mx0e.vercel.app/
 
 ---
 
