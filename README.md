@@ -1,7 +1,7 @@
 # 🌐 Personal Portfolio Website
 
 ## 🚀 Live Demo
-👉 https://your-portfolio-link.vercel.app/
+👉 https://portfolio-two-omega-tawgl0mx0e.vercel.app/#About_section
 
 ---
 
@@ -35,9 +35,3 @@ It showcases my skills, projects, services, and contact details in a clean and r
 - Resume
 - Contact
 
----
-
-## 📥 Installation
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
